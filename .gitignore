@@ -2,3 +2,5 @@
 /.idea/
 .env
 /project/.env
+mysql-data
+mysql_dump
